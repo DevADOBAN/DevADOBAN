@@ -14,6 +14,3 @@
 _Sinta-se à vontade para conectar comigo!_
 
 ![Visitantes](https://komarev.com/ghpvc/?username=DevADOBAN)
-
-
-![Snake animation](https://github.com/DevADOBAN/DevADOBAN/blob/output/github-contribution-grid-snake.svg)
